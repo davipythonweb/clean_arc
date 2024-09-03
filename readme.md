@@ -23,6 +23,7 @@ __________________________________________________
 - forçar o push
 `git push --force`
 
+________________________________________________________
 
 * criando o database pelo interpretador python no terminal:
 
