@@ -22,7 +22,3 @@ __________________________________________________
 `git commit --amend --no-edit`
 - forçar o push
 `git push --force`
-
-________________________________
-
-- testando flake8 e black
