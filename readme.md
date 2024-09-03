@@ -1,11 +1,10 @@
 # project-clean-arctetura
 
-- python
-- sqlite3
+- python3
+- postgres
 - utilizando pylint e comandos para gerar o requirements.txt, apos os commits.
 - configs do vscode para nao gerar arquivos cache
 _______________________________________________________________________________________
-
 
 - essa_eh_minha_funcao -> snake_case === variaveis e funçoes
 - minhaFuncao -> cammelCase === NAõ utilizar em codigo
