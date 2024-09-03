@@ -1,10 +1,7 @@
 def minhaFuncao():
-    """ descricao da funcao"""
     print('Hello World')
 
 def essa_eh_uma_funcao():
-   
-    """ descrição da funçao"""
     print('Ola Mundo')
 
 
