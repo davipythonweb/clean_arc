@@ -1,4 +1,4 @@
-def minhaFuncao():
+def minha_funcao():
     print('Hello World')
 
 def essa_eh_uma_funcao():
