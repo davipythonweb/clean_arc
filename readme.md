@@ -1,7 +1,5 @@
 # project-clean-arctetura
 
-- python3
-- postgres
 - utilizando pylint e comandos para gerar o requirements.txt, apos os commits.
 - configs do vscode para nao gerar arquivos cache
 ___________________________________________________
