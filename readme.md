@@ -22,3 +22,20 @@ __________________________________________________
 `git commit --amend --no-edit`
 - forçar o push
 `git push --force`
+
+
+* criando o database pelo interpretador python no terminal:
+
+ˋfrom src.infra.config import *ˋ
+ˋfrom src.infra.entities import *ˋ
+ˋdb_conn = DBConnectionHandler()ˋ
+ˋengine = db_conn.get_engine()ˋ
+ˋBase.metadata.create_all(engine)ˋ
+ˋexit()ˋ
+
+* inserindo dados no database pelo interpretador python no terminal:
+
+ˋfrom src.infra.repo import *ˋ
+ˋsomething = FakerRepo()ˋ
+ˋsomething.insert_use()ˋ
+ˋexit()ˋ
